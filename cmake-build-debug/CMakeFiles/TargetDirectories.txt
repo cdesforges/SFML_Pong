@@ -1,3 +1,3 @@
-/Users/cdesforges/CLionProjects/SFML_Pong/cmake-build-debug/CMakeFiles/SFML_Pong.dir
-/Users/cdesforges/CLionProjects/SFML_Pong/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/cdesforges/CLionProjects/SFML_Pong/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/cdesforges/Documents/Personal/2024/School/Fall 2024/CS03A/Labs/SFML_Pong/cmake-build-debug/CMakeFiles/SFML_Pong.dir
+/Users/cdesforges/Documents/Personal/2024/School/Fall 2024/CS03A/Labs/SFML_Pong/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/cdesforges/Documents/Personal/2024/School/Fall 2024/CS03A/Labs/SFML_Pong/cmake-build-debug/CMakeFiles/rebuild_cache.dir

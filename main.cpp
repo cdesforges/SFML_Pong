@@ -1,8 +1,10 @@
-#include "GameLogic.h"
+#include "Pong.h"
 
 int main()
 {
-    GameLogic::run();
+    Pong game;
+
+    game.run();
 
     return 0;
 }
